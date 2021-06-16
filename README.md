@@ -1,3 +1,3 @@
 # Demo
 
-A instagram bot
+A instagram bot using Selenium in Python
